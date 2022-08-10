@@ -1,0 +1,5 @@
+4
+abbabb
+cababaa
+abbbbabb
+dabbabb
