@@ -1,3 +1,4 @@
+#Enzo Ramon Campa
 #---Funções de estado---
 
 def State1(txt, index):
