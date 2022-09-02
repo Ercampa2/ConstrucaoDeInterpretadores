@@ -1,0 +1,6 @@
+5
+kjvbskef
+*ehfie
+(\rightarrow aa)
+(\leftrightarrow T F)
+(\leftrightarrow (\leftrightarrow a b) (\neg c))

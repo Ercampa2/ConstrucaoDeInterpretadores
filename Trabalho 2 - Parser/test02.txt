@@ -1,0 +1,6 @@
+5
+(\neg a)
+(\vee a b)
+(\wedge c d)
+(\leftrightarrow a b)
+(\leftrightarrow (\leftrightarrow a b) (\neg c))
